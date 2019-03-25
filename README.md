@@ -6,7 +6,7 @@
 
 ### Overview
 
-This devices is a portable GSM prototype that can be used for different purpouse. The board allows to power an Onion Omega 2+ and a Simcom SIM800L thanks to two NCP3170A buck regulators. Moreover the device contains also different nets that permitts to Omega2+ to control the SIM800L.
+This devices is a portable GSM prototype that can be used for different purpouse. The board allows to power an Onion Omega 2+ and a Simcom SIM800L thanks to two NCP3170A buck regulators. Moreover the device contains also different nets that permitts to Omega2+ to control the SIM800L. Besides has been also added a modular interface that allows to upgrade the device and add new functionalities.
 
 ### C program
 
