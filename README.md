@@ -1,7 +1,7 @@
 # Onion GSM Module
 
 ###### Modular GSM device, for embedded applications, realized with Onion Omega 2+ and SIM800L.
-![Model](https://github.com/AlbertoZandara/Onion-GSM-Module/blob/master/Model.bmp) 
+![Model](https://github.com/AlbertoZandara/Onion-GSM-Module/blob/master/Module.jpg) 
 ![Prototype](https://github.com/AlbertoZandara/Onion-GSM-Module/blob/master/Prototype.jpg) 
 
 ### Overview
