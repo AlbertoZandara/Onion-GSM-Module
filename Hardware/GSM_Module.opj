@@ -1,0 +1,167 @@
+(ExpressProject "GSM_Module"
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\gsm_module.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Input Board File"
+       "C:\Users\AZand_000\Desktop\Università\Tesi triennale\Hardware\OrCAD\Projects\Ver 2.0\Layout\GSM_Module_REV3.0.brd")
+    ("Allegro Netlist Output Board File"
+       "C:\Users\AZand_000\Desktop\Università\Tesi triennale\Hardware\OrCAD\Projects\Ver 2.0\Layout\GSM_Module_REV3.0.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (SWITCH
+      (FullPartName "SWITCH.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\VER 2.0\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (USB_5_PIN_0
+      (FullPartName "USB_5_PIN_0.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\GSM_MODULE.DSN")
+      (DeviceIndex "0"))
+    (USB_5_PIN
+      (FullPartName "USB_5_PIN.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BUS_17_PIN_R
+      (FullPartName "BUS_17_PIN_R.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BUS_17_PIN_L
+      (FullPartName "BUS_17_PIN_L.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (BUS_6_PIN_R
+      (FullPartName "BUS_6_PIN_R.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SIM800L
+      (FullPartName "SIM800L.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (ONION
+      (FullPartName "ONION.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\SCHEMATICS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (NCP3170
+      (FullPartName "NCP3170.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (SIM800_Coreboard
+      (FullPartName "SIM800_Coreboard.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (LM2596
+      (FullPartName "LM2596.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (Onion_Omega2+
+      (FullPartName "Onion_Omega2+.Normal")
+      (LibraryName
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\LIBRARY1.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Users\AZand_000\Desktop\Università\Tesi triennale\Hardware\OrCAD\Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\gsm_module.dsn")
+      (Path "Design Resources" ".\gsm_module.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Outputs")
+      (Select "Design Resources" ".\gsm_module.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 261"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1238 52 303")
+        (Scroll "-144 10")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\AZAND_000\DESKTOP\UNIVERSITÀ\TESI TRIENNALE\HARDWARE\ORCAD\PROJECTS\VER 2.0\SCHEMATICS\GSM_MODULE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (MPSSessionName "AZand_000")
+  (ISPCBBASICLICENSE "false")
+  (Folder "Simulation Resources"
+    (Folder "Indesign"
+      (File ".\indesign\cds.lib"
+        (Type "Report")
+        (DisplayName ".\Indesign\cds.lib"))
+      (File ".\indesign\hdl.var"
+        (Type "Report")
+        (DisplayName ".\Indesign\hdl.var"))
+      (File ".\indesign\gsm_module.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\GSM_MODULE.vhd"))
+      (File ".\indesign\stubi.vhd"
+        (Type "VHDL Source")
+        (DisplayName ".\Indesign\StubI.vhd"))
+      (File ".\indesign\sdf.cmd"
+        (Type "Report")
+        (DisplayName ".\Indesign\sdf.cmd")))))
