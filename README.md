@@ -23,5 +23,3 @@ For UART (serial connection between Omega and SIM):
 
 For GPIO interactions:
 - `ugpio/ugpio.h`
-
-And a special thanks goes to @ mhei for the last one.
